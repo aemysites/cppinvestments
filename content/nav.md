@@ -1,0 +1,71 @@
+- [![CPP Investments](https://www.cppinvestments.com/wp-content/uploads/2023/03/CPPIB-EN-logo.svg)](/)
+
+---
+
+- **About us**
+  - [About us Overview](/about-us/)
+  - **Governance**
+    - [Governance overview](/about-us/governance/)
+    - [Independence](/about-us/governance/independence/)
+    - [Accountability](/about-us/governance/accountability/)
+    - [About the Board](/about-us/governance/about-the-board/)
+    - [Board of Directors](/about-us/governance/board-of-directors/)
+    - [Board Committees](/about-us/governance/board-committees/)
+    - [Legal & Regulatory](/about-us/governance/legal-regulatory/)
+    - [Policies](/about-us/governance/policy/)
+    - [Whistleblower Hotline](/about-us/governance/whistleblower-hotline/)
+  - **Leadership**
+    - [Leadership Overview](/about-us/leadership/)
+    - [Senior Management Team](/about-us/leadership/senior-management-team/)
+  - [Our Investment Beliefs](/about-us/our-investment-beliefs/)
+  - [Code of Conduct](/about-us/code-of-conduct/)
+- **The Fund**
+  - [The Fund overview](/the-fund/)
+  - **Our Performance**
+    - [F2025 Annual Report](/the-fund/f2025-annual-report/)
+    - [Financial Results](/the-fund/our-performance/financial-results/)
+    - [Actuary Exam Reports](/the-fund/actuary-exam-reports/)
+    - [Special Exam Reports](/the-fund/special-exam-reports/)
+    - [Financial Sustainability of the CPP](/the-fund/our-performance/sustainability-of-the-cpp/)
+  - **Investment Programs**
+    - [Investment Programs overview](/the-fund/investment-programs/)
+    - [Active Equities](/the-fund/investment-programs/investment-active-equities/)
+    - [Capital Markets and Factor Investing](/the-fund/investment-programs/investment-capital-markets/)
+    - [Credit Investments](/the-fund/investment-programs/investment-credit-investments/)
+    - [Private Equity](/the-fund/investment-programs/investment-private-equity/)
+    - [Real Assets](/the-fund/investment-programs/investment-real-assets/)
+    - [Integrated Strategies Group](/the-fund/investment-programs/integrated-strategies-group/)
+    - [Total Fund Management](/the-fund/investment-programs/team-total-fund-management/)
+    - [Holdings and Relationships](/the-fund/investment-programs/holdings-and-relationships/)
+  - [How We Invest](/the-fund/how-we-invest/)
+  - [Debt Issuance](/the-fund/debt-issuance/)
+  - **Approach to Sustainability**
+    - [Sustainability Overview](/the-fund/approach-sustainability/)
+    - [Approach](/the-fund/approach-sustainability/approach/)
+    - [Expectations](/the-fund/approach-sustainability/expectations/)
+    - [Collaboration](/the-fund/approach-sustainability/collaboration/)
+    - [Proxy Voting](/the-fund/approach-sustainability/proxy-voting/)
+    - [Climate Change](/the-fund/approach-sustainability/climate-change/)
+- **Insights Institute**
+  - [Insights Institute overview](/insights-institute/)
+  - [Institute Purpose](/insights-institute/overview/)
+  - **Latest Insights**
+    - [Latest Insights Overview](/insights-institute/listing/)
+- **Careers**
+  - [Careers overview](/careers/)
+  - [Search Jobs](/careers/search-jobs/)
+  - [Equity, Diversity and Inclusion](/careers/edi/)
+  - **Early Career Candidates**
+    - [Early Career Candidates overview](/careers/early-career-candidates/)
+    - [Internships](/careers/early-career-candidates/internships/)
+    - [Graduate Programs](/careers/early-career-candidates/graduate-programs/)
+- **Commitment to Canadians**
+  - [Commitment to Canadians Overview](/for-canadians/)
+  - [Fiscal 2025 Year in Review](/for-canadians/year-end-2025/)
+- [Newsroom](/newsroom/)
+- [FAQs](/faqs/)
+- [Contact Us](/contact-us/)
+
+---
+
+:search:
