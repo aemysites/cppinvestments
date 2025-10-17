@@ -33,15 +33,15 @@ header nav[aria-expanded='true'] {
   min-height: 100dvh;
 }
 
-@media (width >= 900px) {
-  header nav {
-    /* Keep grid layout at all breakpoints for hamburger menu */
-    width: 100%;
-    gap: 0 32px;
-    max-width: 1264px;
-    padding: 0 32px;
-  }
+header nav {
+  /* Keep grid layout at all breakpoints for hamburger menu */
+  width: 100%;
+  gap: 0 32px;
+  max-width: 1264px;
+  padding: 0 32px;
+}
 
+@media (width >= 900px) {
   header nav[aria-expanded='true'] {
     min-height: 100dvh;
     overflow-y: auto;
