@@ -5,8 +5,38 @@
 
 .hero {
   position: relative;
-  padding: 40px 24px;
-  min-height: 300px;
+  padding: 60px 24px;
+  background-color: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+}
+
+.hero > div {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  max-width: 1248px;
+  width: 100%;
+}
+
+/* Text content */
+.hero > div > div:first-child {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* Add blue accent line before heading */
+.hero h1::before {
+  content: '';
+  display: block;
+  width: 48px;
+  height: 4px;
+  background-color: #0073e6;
+  margin-bottom: 24px;
 }
 
 .hero h1,
@@ -14,34 +44,84 @@
 .hero h3,
 .hero h4,
 .hero h5,
-.hero h6,
-.hero p {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  color: var(--background-color);
+.hero h6 {
+  color: #2b2b2b;
+  margin: 0;
+  font-weight: 700;
+  line-height: 1.2;
 }
 
-.hero.no-image * {
-  color: var(--text-color);
+.hero h1 {
+  font-size: var(--heading-font-size-xl);
+}
+
+.hero p {
+  color: #2b2b2b;
+  margin: 0;
+  font-size: var(--body-font-size-m);
+  line-height: 1.6;
+}
+
+/* Button styling */
+.hero .button-container {
+  margin-top: 8px;
+}
+
+.hero a.button {
+  background-color: #0073e6;
+  color: white;
+  padding: 12px 32px;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  transition: background-color 0.3s ease;
+}
+
+.hero a.button:hover {
+  background-color: #005bb5;
+}
+
+/* Image container */
+.hero > div > div:last-child {
+  flex: 1;
 }
 
 .hero picture {
-  position: absolute;
-  z-index: -1;
-  inset: 0;
-  object-fit: cover;
-  box-sizing: border-box;
+  position: relative;
+  z-index: auto;
+  inset: auto;
+  display: block;
 }
 
 .hero img {
   object-fit: cover;
   width: 100%;
-  height: 100%;
+  height: auto;
+  border-radius: 8px;
 }
 
+/* Desktop layout */
 @media (width >= 900px) {
   .hero {
-    padding: 40px 32px;
+    padding: 80px 32px;
+  }
+
+  .hero > div {
+    flex-direction: row;
+    gap: 64px;
+    max-width: 1264px;
+    align-items: center;
+  }
+
+  .hero > div > div:first-child {
+    flex: 0 0 45%;
+  }
+
+  .hero > div > div:last-child {
+    flex: 1;
   }
 }
